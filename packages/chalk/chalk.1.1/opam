@@ -28,5 +28,5 @@ let some_string = "Hello world!"
 flags: light-uninstall
 url {
   src: "https://github.com/aexpl/chalk/archive/v1.1.tar.gz"
-  checksum: "md5=bb36278c2f80ca54da44d3b7d25ad43f"
+  checksum: "md5=d3abb3f963c08f4a0f7407e141ebdfd7"
 }
