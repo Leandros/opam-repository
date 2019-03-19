@@ -7,10 +7,10 @@ authors: [
   "Nick Zalutskiy <nick@const.fun>"
   "Armaël Guéneau <armael.gueneau@ens-lyon.fr>"
 ]
-homepage: "https://github.com/leandros/ppx_deriving_cmdliner"
-bug-reports: "https://github.com/leandros/ppx_deriving_cmdliner/issues"
-dev-repo: "git+https://github.com/leandros/ppx_deriving_cmdliner.git"
-doc: "http://leandros.github.io/ppx_deriving_cmdliner"
+homepage: "https://github.com/aexpl/ppx_deriving_cmdliner"
+bug-reports: "https://github.com/aexpl/ppx_deriving_cmdliner/issues"
+dev-repo: "git+https://github.com/aexpl/ppx_deriving_cmdliner.git"
+doc: "http://aexpl.github.io/ppx_deriving_cmdliner"
 license: "MIT"
 version: "0.4.2-alpha"
 tags: ["syntax" "cli"]
@@ -39,6 +39,6 @@ ppx_deriving_cmdliner is a ppx_deriving plugin that generates
 a Cmdliner Term.t for a record type."""
 url {
   src:
-    "https://github.com/leandros/ppx_deriving_cmdliner/archive/v0.4.2-alpha.tar.gz"
+    "https://github.com/aexpl/ppx_deriving_cmdliner/archive/v0.4.2-alpha.tar.gz"
   checksum: "md5=49503cb907cc945cca489b96ed6ec7a3"
 }
