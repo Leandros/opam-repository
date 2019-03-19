@@ -8,6 +8,7 @@ dev-repo: "git+ssh://git@github.com/aexpl/chalk.git"
 build: [
   ["dune" "subst" "-n" name] {pinned}
   ["dune" "build" "-p" name "-j" jobs]
+]
 depends: [
   "ocaml" {>= "4.03"}
   "dune" {build}
