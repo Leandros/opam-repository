@@ -15,7 +15,6 @@ tags: [ "syntax" ]
 depends: [
   "ocaml"                   {              >= "4.04.2" & < "4.08.0" }
   "dune"                    { build &      >= "1.2.0"  }
-  "cppo"                    { build &      >= "1.6.0"  }
 ]
 
 build:      [["dune" "build"   "-p" name "-j" jobs]
@@ -23,5 +22,5 @@ build:      [["dune" "build"   "-p" name "-j" jobs]
 
 url {
   src: "https://github.com/aexpl/ppx_include/archive/v1.2.tar.gz"
-  checksum: "md5=654e457b2c5c4212b2b2787667db1f11"
+  checksum: "md5=d4e3fbed0d8c8b9c19de72c73d0fd3a1"
 }
