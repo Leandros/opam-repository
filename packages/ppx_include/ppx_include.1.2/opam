@@ -23,5 +23,5 @@ build:      [["dune" "build"   "-p" name "-j" jobs]
 
 url {
   src: "https://github.com/aexpl/ppx_include/archive/v1.2.tar.gz"
-  checksum: "md5=f601ce09408dc56c568b495afd1c0cef"
+  checksum: "md5=654e457b2c5c4212b2b2787667db1f11"
 }
